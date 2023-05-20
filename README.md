@@ -14,16 +14,16 @@
 
 ## Then included the image path using img src tag in index.jsp file.
 
-<img src="image path" alt="Lable">
+### <img src="image path" alt="Lable">
 
 ## This is how my index.jsp looks like after modifications:
 
-<html>
-<body>
-<h1>Congratulations You Have Successfully Deployed Your Applications.</h1>
-<img src="images/image.jpg" alt="Logo">
-</body>
-</html>
+### <html>
+### <body>
+### <h1>Congratulations You Have Successfully Deployed Your Applications.</h1>
+### <img src="images/image.jpg" alt="Logo">
+### </body>
+### </html>
 
 
 ## Now your having a java-web-application ready, Now you can build it using maven
