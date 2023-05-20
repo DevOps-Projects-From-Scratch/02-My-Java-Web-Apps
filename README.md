@@ -20,6 +20,7 @@ mvn clean package
 
 ## After executing the above maven command inside Maven Project where pom.xml is present a war file will be created inside a Target directory. 
 
-
+## Output of the war file when deployed on any application server like tomcat will be as below.
+![output](https://github.com/Devops-Projects-From-Scrach/My-Java-Web-Apps/assets/91256009/d1604229-77f0-408f-a1e4-e75584a89c26)
 
 
