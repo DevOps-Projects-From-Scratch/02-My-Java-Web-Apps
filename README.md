@@ -8,10 +8,11 @@
 -DartifactId=myapp                                          \
 -Dversion=1.0-SNAPSHOT
 
-## Then created a directory named "images" inside the src/main/webapp directory of my Maven project.  
+## Then created a directory named "images" inside the src/main/webapp directory of my Maven project. 
+![image](https://github.com/Devops-Projects-From-Scrach/My-Java-Web-Apps/assets/91256009/c9664d2a-1faf-45fe-91b7-20cb0e0d2e71)
 
 ## Placed a image files image.jpg inside the images directory.
-
+![image](https://github.com/Devops-Projects-From-Scrach/My-Java-Web-Apps/assets/91256009/78c2a239-c57e-42f0-a648-f4170409adae)
 ## Then included the image path using img src tag in index.jsp file
 
 ## My index.jsp file looks like this after modification.
