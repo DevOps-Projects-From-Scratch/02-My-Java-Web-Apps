@@ -14,6 +14,9 @@
 
 ## Then included the image path using img src tag in index.jsp file
 
+## My index.jsp file looks like this after modification.
+![index](https://github.com/Devops-Projects-From-Scrach/My-Java-Web-Apps/assets/91256009/6421a9d3-5d89-4202-b94a-4bf8aa23c8e3)
+
 ## Now your having a java-web-application ready, Now you can build it using maven
 
 mvn clean package 
